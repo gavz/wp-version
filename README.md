@@ -1,5 +1,5 @@
 # wp-version
-This tools finds the version of wordpress used on a wordpress installation
+This tools finds the version of wordpress used on a wordpress installation. This also now checks for the vulnerabilites in specific crwaled version
 
 ## Requirments:
 
